@@ -1,0 +1,16 @@
+PODS:
+  - AlphaWalletWeb3Provider (0.3.0)
+
+DEPENDENCIES:
+  - AlphaWalletWeb3Provider (from `/Users/hboon/p/alphawallet/AlphaWallet-web3-provider`)
+
+EXTERNAL SOURCES:
+  AlphaWalletWeb3Provider:
+    :path: "/Users/hboon/p/alphawallet/AlphaWallet-web3-provider"
+
+SPEC CHECKSUMS:
+  AlphaWalletWeb3Provider: 7ca1e1c1dc841dc1915f970daace48bf34931655
+
+PODFILE CHECKSUM: 3905b3efb981babc4930be4a70346041d9fb6b80
+
+COCOAPODS: 1.10.0
